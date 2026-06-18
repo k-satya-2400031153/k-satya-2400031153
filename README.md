@@ -25,7 +25,23 @@ I am a second-year B.Tech student in Computer Science and Engineering at KL Univ
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+
 ### Connect With Me
 
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/k-satya-narayana-b621a7326/](#)
-- 💻 **LeetCode:** [https://leetcode.com/u/eD9JGoRu6O/](#)
+- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/k-satya-narayana-b621a7326)
+- 💻 **LeetCode:** [LeetCode Profile](https://leetcode.com/u/eD9JGoRu6O)
+### GitHub Stats 📈
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=k-satya-2400031153&show_icons=true&theme=tokyonight" alt="Satya's GitHub Stats" />
+</div>
+<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-satya-2400031153&theme=tokyonight" alt="Satya's GitHub Streak" />
+</div>
+
+### Top Languages 💻
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-satya-2400031153&layout=compact&theme=tokyonight" alt="Satya's Top Languages" />
+</div>
